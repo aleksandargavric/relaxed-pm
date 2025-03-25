@@ -64,11 +64,11 @@ With this pipeline, you can transform a text-first or multimodal-first event log
     ollama pull nomic-embed-text
     ```
 - **Clone this Repository**  
-  ```bash
+   ```bash
    wget -O relaxed-pm.zip https://anonymous.4open.science/api/repo/relaxed-pm-A7E4/zip
    unzip relaxed-pm.zip -d relaxed-pm
    cd relaxed-pm
- ```
+   ```
 
 ---
 
