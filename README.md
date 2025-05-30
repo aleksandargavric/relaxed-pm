@@ -1,4 +1,4 @@
-# Supplementary Material for the paper "Relaxing Process Mining for Operation in Embedding Spaces" (submitted to BPM25)
+# Supplementary Material for the paper "Beyond Logs: AI’s Embeddings as the New Process Evidence" (submitted to BPM25 Process Technology Forum)
 
 This repository demonstrates a **relaxed process mining** pipeline that integrates **embeddings**, **clustering**, **LLM-based labeling**, and **traditional process discovery** (via PM4Py). It provides a step-by-step implementation (in Python).
 
